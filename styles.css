@@ -70,3 +70,18 @@ h1, h2, h3 {
 h2{
     text-align: center;
 }
+#top-players h2{
+    background-color: #FFA540;
+}
+#character-card h2{
+  background-color:#f4bd7e;
+}
+#opinion h2{
+  background-color: #63AFD0;
+}
+#similar-anime h2{
+  background-color:#0772A1;
+}
+#favorite-characters h2{
+  background-color:#ffbd73;
+}
